@@ -1,11 +1,16 @@
 _repo: The-Canadian-Druggist-Vol-1-No-2-August-1889_52116
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52116-h/images/cover.jpg
 creator:
   editor:
     agent_name: Dyas, William J.
     gutenberg_agent_id: '46686'
     url: http://www.gutenberg.org/2009/agents/46686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52116#The-Canadian-Druggist-Vol-1-No-2-August-1889
 gutenberg_issued: '2016-05-21'
 gutenberg_type: Text
 identifiers:
